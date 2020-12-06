@@ -1,0 +1,1062 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-08-01T14:58:38" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Done">Yes</meta>
+  </metadata>
+  <text xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text">
+    <p xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1">
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1">
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.1">
+          <t>Kozhikode</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.2">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.3">
+          <t>Row</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.4">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.5">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.6">
+          <t>mass</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.7">
+          <t>transfer</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.8">
+          <t>June</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.9">
+          <t>09</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.10">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.11">
+          <t>2011</t>
+        </w>
+        <w class="TIME" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.12">
+          <t>00:00</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.13">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.14">
+          <t>A</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.15">
+          <t>minor</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.16">
+          <t>scuffle</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.17">
+          <t>broke</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.18">
+          <t>out</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.19">
+          <t>between</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.20">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.21">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.22">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.24">
+          <t>NGO</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.25">
+          <t>Union</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.26">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.27">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.28">
+          <t>NGO</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.29">
+          <t>Association</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.30">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.31">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.32">
+          <t>compound</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.33">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.35">
+          <t>regional</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.36">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.37">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.38">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.39">
+          <t>Department</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.40">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.41">
+          <t>Public</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.42">
+          <t>Works</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.43">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.44">
+          <t>Mananchira</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.45">
+          <t>here</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.46">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.47">
+          <t>Wednesday</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.48">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.49">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.50">
+          <t>allegation</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.51">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.52">
+          <t>mass</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.53">
+          <t>transfer</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.54">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.55">
+          <t>employees</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.56">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="loc" datetime="2018-09-24T08:44:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.1011">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.30" t="in"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.31" t="the"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.32" t="compound"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.33" t="of"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.34" t="the"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.35" t="regional"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.36" t="office"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.37" t="of"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.38" t="the"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.39" t="Department"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.40" t="of"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.41" t="Public"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.42" t="Works"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place_pub" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.1">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.1" t="Kozhikode"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="eptime" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.8" t="June"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.9" t="09"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.10" t=","/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.11" t="2011"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.12" t="00:00"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.13" t="IST"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.3">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.16" t="scuffle"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="etime" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.4">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.46" t="on"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.47" t="Wednesday"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.5">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.44" t="Mananchira"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.6">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.3" t="Row"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="doc_title" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.7">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.3" t="Row"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.4" t="over"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.5" t="alleged"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.6" t="mass"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.7" t="transfer"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="type" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.9">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.21" t="activists"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="activist" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2007">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.21" t="activists"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="name" datetime="2019-04-18T11:15:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.29">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.24" t="NGO"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.25" t="Union"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="name" datetime="2019-04-18T11:15:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.30">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.28" t="NGO"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.29" t="Association"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="trade_union" datetime="2019-04-18T12:15:02" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2001">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.24" t="NGO"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.25" t="Union"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="ngo" datetime="2019-04-18T12:15:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2002">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.28" t="NGO"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.29" t="Association"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="group_clash" datetime="2019-06-13T17:35:27" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.12">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.3" t="Row"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="group_clash" datetime="2019-06-13T17:35:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.17">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.1.w.16" t="scuffle"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.2">
+          <t>incident</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.3">
+          <t>occurred</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.4">
+          <t>at</t>
+        </w>
+        <w class="NUMBER" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.5">
+          <t>10.30</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.6">
+          <t>a.m.</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.7">
+          <t>The</t>
+        </w>
+        <w class="WORD-PARSUFFIX" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.8">
+          <t>pro-CPI(M)</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.9">
+          <t>NGO</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.10">
+          <t>Union</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.11">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.12">
+          <t>alleged</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.13">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.15">
+          <t>employees</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.16">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.17">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.18">
+          <t>transferred</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.19">
+          <t>based</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.20">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.21">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.22">
+          <t>list</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.23">
+          <t>submitted</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.24">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.26">
+          <t>Congress-affiliated</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.27">
+          <t>NGO</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.28">
+          <t>Association</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.29">
+          <t>district</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.30">
+          <t>committee</t>
+        </w>
+        <w class="SUFFIX" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.31">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.32">
+          <t>treasurer</t>
+        </w>
+        <w class="INITIAL" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.33">
+          <t>C.</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.34">
+          <t>Ranjith</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.35">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:15:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.23">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.2" t="incident"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="etime" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.24">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.4" t="at"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.5" t="10.30"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.6" t="a.m."/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="type" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.26">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.11" t="activists"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="activist" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2008">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.11" t="activists"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Eylem" annotatortype="manual" class="name" datetime="2018-09-28T00:10:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.20">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.8" t="pro-CPI(M)"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="name" datetime="2018-09-28T00:10:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.21">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.26" t="Congress-affiliated"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="name" datetime="2018-09-28T00:12:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.32">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.9" t="NGO"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.10" t="Union"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="name" datetime="2018-09-28T00:12:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.33">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.27" t="NGO"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.28" t="Association"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="pol_party" datetime="2018-09-28T01:10:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2003">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.8" t="pro-CPI(M)"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="pol_party" datetime="2018-09-28T01:10:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2004">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.26" t="Congress-affiliated"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="trade_union" datetime="2018-09-28T01:12:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2005">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.9" t="NGO"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.10" t="Union"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="ngo" datetime="2018-09-28T01:12:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2006">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.27" t="NGO"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.28" t="Association"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="group_clash" datetime="2019-06-13T17:37:41" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.18">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.2.w.2" t="incident"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.1">
+          <t>Activists</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.2">
+          <t>assemble</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.3">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.4">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.5">
+          <t>assembled</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.6">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.7">
+          <t>front</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.10">
+          <t>office</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.11">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.12">
+          <t>prevent</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.13">
+          <t>Mr.</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.14">
+          <t>Ranjth</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.15">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.16">
+          <t>entering</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.17">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.18">
+          <t>building</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.19">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="type" datetime="2018-09-24T08:40:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.1021">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.1" t="Activists"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="activist" datetime="2018-09-24T09:40:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2009">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.1" t="Activists"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="name" datetime="2019-04-18T11:17:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.1019">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.14" t="Ranjth"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:16:37" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.14">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.5" t="assembled"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:18:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.15">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.2" t="assemble"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="doc_title" datetime="2018-09-24T10:26:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.16">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.1" t="Activists"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.2" t="assemble"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="loc" datetime="2018-09-24T10:27:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.19">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.6" t="in"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.7" t="front"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.8" t="of"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.9" t="the"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.10" t="office"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Eylem" annotatortype="manual" class="type" datetime="2018-09-24T10:27:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.1020">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.4" t="activists"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="activist" datetime="2018-09-24T11:27:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2010">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.4" t="activists"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Eylem" annotatortype="manual" class="group_clash" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.31">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.2" t="assemble"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="group_clash" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.34">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.3.w.5" t="assembled"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.1">
+          <t>In</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.2">
+          <t>fact</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.3">
+          <t>this</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.5">
+          <t>happening</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.6">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.8">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.9">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.10">
+          <t>days</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.11">
+          <t>making</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.12">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.13">
+          <t>impossible</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.14">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.15">
+          <t>him</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.17">
+          <t>attend</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.18">
+          <t>office</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.4.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5">
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.1">
+          <t>However</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.3">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.4">
+          <t>Wednesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.5">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.7">
+          <t>rival</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.8">
+          <t>NGO</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.9">
+          <t>Association</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.10">
+          <t>activists</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.11">
+          <t>led</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.12">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.13">
+          <t>State</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.14">
+          <t>unit</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.15">
+          <t>secretary</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.16">
+          <t>Abdul</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.17">
+          <t>Razak</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.18">
+          <t>made</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.19">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.20">
+          <t>attempt</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.21">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.22">
+          <t>let</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.23">
+          <t>Mr.</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.24">
+          <t>Ranjith</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.25">
+          <t>enter</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.26">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.27">
+          <t>office</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.5.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.2">
+          <t>gathering</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.3">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.4">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.5">
+          <t>hostile</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.6">
+          <t>groups</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.7">
+          <t>resulted</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.8">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.9">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.10">
+          <t>verbal</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.11">
+          <t>duel</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.12">
+          <t>initially</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.13">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.14">
+          <t>subsequently</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.15">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.16">
+          <t>fight</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.17">
+          <t>ensued</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.18">
+          <t>between</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.19">
+          <t>them</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:17:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.28">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.16" t="fight"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:17:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.13">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.2" t="gathering"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:17:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.22">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.10" t="verbal"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.11" t="duel"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Eylem" annotatortype="manual" class="type" datetime="2018-09-24T10:32:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.25">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.6" t="groups"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="activist" datetime="2018-09-24T11:32:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.2011">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.6" t="groups"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="group_clash" datetime="2019-06-13T17:34:53" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.8">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.16" t="fight"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="group_clash" datetime="2019-06-13T17:35:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.10">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.10" t="verbal"/>
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.11" t="duel"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="group_clash" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.text.entity.35">
+            <wref id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.6.w.2" t="gathering"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.1">
+          <t>Minor</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.2">
+          <t>injuries</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.3">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.4">
+          <t>police</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.5">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.7">
+          <t>difficult</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.8">
+          <t>time</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.9">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.10">
+          <t>control</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.12">
+          <t>angry</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.13">
+          <t>groups</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.7.w.14">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.1">
+          <t>Even</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.2">
+          <t>then</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.3">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.4">
+          <t>few</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.5">
+          <t>persons</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.6">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.7">
+          <t>both</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.8">
+          <t>sides</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.9">
+          <t>suffered</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.10">
+          <t>minor</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.11">
+          <t>injuries</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.8.w.12">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.1">
+          <t>Some</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.2">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.3">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.4">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.5">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.6">
+          <t>admitted</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.7">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.8">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.9">
+          <t>Government</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.10">
+          <t>General</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.11">
+          <t>Hospital</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.12">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.13">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.14">
+          <t>Beach</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.9.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10">
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.1">
+          <t>Later</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.3">
+          <t>NGO</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.4">
+          <t>Association</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.5">
+          <t>State</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.6">
+          <t>secretariat</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.7">
+          <t>member</t>
+        </w>
+        <w class="ABBREVIATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.8">
+          <t>V.C.</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.9">
+          <t>Johnson</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.10">
+          <t>clarified</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.11">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.12">
+          <t>usually</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.13">
+          <t>transfers</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.14">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.15">
+          <t>take</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.16">
+          <t>place</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.17">
+          <t>when</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.18">
+          <t>there</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.19">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.20">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.21">
+          <t>change</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.22">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.23">
+          <t>government</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.10.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.1">
+          <t>Employees</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.2">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.3">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.4">
+          <t>transferred</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.5">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.6">
+          <t>key</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.7">
+          <t>posts</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.8">
+          <t>so</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.9">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.11">
+          <t>implement</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.13">
+          <t>policies</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.14">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.16">
+          <t>new</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.17">
+          <t>government</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.18">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.19">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.20">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.11.w.21">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.12">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.12.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.12.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-kerala_row-over-alleged-mass-transfer_article2089699.p.1.s.12.w.3">
+          <t>http://www.thehindu.com/todays-paper/tp-national/tp-kerala/row-over-alleged-mass-transfer/article2089699.ece</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

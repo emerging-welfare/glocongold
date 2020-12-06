@@ -1,0 +1,1131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-09-24T16:27:35" set="tokconfig-eng"/>
+      <sentence-annotation set="https://raw.githubusercontent.com/OsmanMutlu/rawtext/master/sentence-classes.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Task.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Done">Yes</meta>
+  </metadata>
+  <text xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text">
+    <p xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1">
+      <s class="1" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.1">
+          <t>Truckers</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.2">
+          <t>put</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.3">
+          <t>govt</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.4">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.5">
+          <t>notice</t>
+        </w>
+        <w class="NUMBER-ORDINAL" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.6">
+          <t>08th</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.7">
+          <t>January</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.8">
+          <t>2009</t>
+        </w>
+        <w class="TIME" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.9">
+          <t>03:57</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.10">
+          <t>AM</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.11">
+          <t>CHENNAI</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.12">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.13">
+          <t>With</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.15">
+          <t>national-level</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.16">
+          <t>truckers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.17">
+          <t>’</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.18">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.19">
+          <t>called</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.20">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.22">
+          <t>All-India</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.23">
+          <t>Motor</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.24">
+          <t>Transport</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.25">
+          <t>Congress</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.26">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.27">
+          <t>AIMTC</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.28">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.29">
+          <t>demanding</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.30">
+          <t>immediate</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.31">
+          <t>reduction</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.32">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.33">
+          <t>diesel</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.34">
+          <t>prices</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.35">
+          <t>entering</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.36">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.37">
+          <t>third</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.38">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.39">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.40">
+          <t>Wednesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.41">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.42">
+          <t>representatives</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.43">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.44">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.45">
+          <t>striking</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.46">
+          <t>truckers</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.47">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.48">
+          <t>issued</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.49">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.50">
+          <t>ultimatum</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.51">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.52">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.53">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.54">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.55">
+          <t>act</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.56">
+          <t>before</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.57">
+          <t>Thursday</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.58">
+          <t>midnight</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.59">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.60">
+          <t>resolve</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.61">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.62">
+          <t>issue</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.63">
+          <t>or</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.64">
+          <t>face</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.65">
+          <t>severe</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.66">
+          <t>consequences</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.67">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.1">
+            <wref t="strike" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.18"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="eptime" datetime="2019-07-12T18:37:16" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.10">
+            <wref t="08th" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.6"/>
+            <wref t="January" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.7"/>
+            <wref t="2009" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.8"/>
+            <wref t="03:57" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.9"/>
+            <wref t="AM" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.10"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="place_pub" datetime="2019-07-12T18:37:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.11">
+            <wref t="CHENNAI" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.11"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="etime" datetime="2019-07-12T18:38:14" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.14">
+            <wref t="on" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.39"/>
+            <wref t="Wednesday" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.40"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="doc_title" datetime="2019-07-12T18:50:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.23">
+            <wref t="Truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.1"/>
+            <wref t="put" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.2"/>
+            <wref t="govt" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.3"/>
+            <wref t="on" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.4"/>
+            <wref t="notice" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.5"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="ind_act" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.2">
+            <wref t="strike" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.18"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="emention" datetime="2019-07-12T18:38:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.1001">
+            <wref t="striking" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.45"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Eylem" annotatortype="manual" class="ind_act" datetime="2019-05-08T00:53:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.7">
+            <wref t="striking" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.45"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="type" datetime="2019-07-12T18:37:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.13">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="type" datetime="2019-07-12T18:38:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.15">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.46"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="type" datetime="2019-07-12T18:39:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.16">
+            <wref t="Truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="partses" datetime="2019-07-12T18:58:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.24">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.46"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="partses" datetime="2019-07-12T18:59:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.25">
+            <wref t="Truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="partses" datetime="2019-07-12T18:59:17" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.26">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="worker" datetime="2019-07-12T19:37:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.2001">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.16"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="worker" datetime="2019-07-12T19:38:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.2002">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.46"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="worker" datetime="2019-07-12T19:39:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.2003">
+            <wref t="Truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.1"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="name" datetime="2019-07-12T18:45:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.17">
+            <wref t="AIMTC" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.27"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="name" datetime="2019-08-03T18:40:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.19">
+            <wref t="the" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.21"/>
+            <wref t="All-India" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.22"/>
+            <wref t="Motor" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.23"/>
+            <wref t="Transport" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.24"/>
+            <wref t="Congress" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.25"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="ngo" datetime="2019-07-12T19:45:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.2005">
+            <wref t="AIMTC" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.27"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="ngo" datetime="2019-08-03T19:40:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.2006">
+            <wref t="the" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.21"/>
+            <wref t="All-India" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.22"/>
+            <wref t="Motor" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.23"/>
+            <wref t="Transport" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.24"/>
+            <wref t="Congress" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.25"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="type" datetime="2019-07-12T18:49:03" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.20">
+            <wref t="government" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.53"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="type" datetime="2019-07-12T18:49:06" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.21">
+            <wref t="govt" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.1.w.3"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="2" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2">
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.1">
+          <t>“</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.2">
+          <t>If</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.3">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.4">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.5">
+          <t>does</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.6">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.7">
+          <t>heed</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.8">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.9">
+          <t>our</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.10">
+          <t>demands</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.11">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.12">
+          <t>we</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.13">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.14">
+          <t>halt</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.16">
+          <t>movement</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.18">
+          <t>essential</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.19">
+          <t>commodities</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.20">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.21">
+          <t>including</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.22">
+          <t>milk</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.23">
+          <t>and</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.24">
+          <t>life-saving</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.25">
+          <t>drugs</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.26">
+          <t>across</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.27">
+          <t>India</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.28">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.29">
+          <t>Friday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.30">
+          <t>morning</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.31">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.32">
+          <t>”</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.33">
+          <t>R</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.34">
+          <t>Sugumar</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.35">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.36">
+          <t>spokesperson</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.37">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.38">
+          <t>AIMTC</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.39">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.40">
+          <t>told</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.41">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.42">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.43">
+          <t>New</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.44">
+          <t>Indian</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.45">
+          <t>Express</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.46">
+          <t>over</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.47">
+          <t>phone</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.48">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.49">
+          <t>New</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.50">
+          <t>Delhi</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.2.w.51">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3">
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.1">
+          <t>He</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.3">
+          <t>along</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.4">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.6">
+          <t>delegation</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.8">
+          <t>transporters</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.9">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.10">
+          <t>different</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.11">
+          <t>parts</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.12">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.13">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.14">
+          <t>country</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.15">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.16">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.17">
+          <t>camping</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.18">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.20">
+          <t>national</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.21">
+          <t>capital</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.22">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.23">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.24">
+          <t>negotiated</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.25">
+          <t>settlement</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.26">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.27">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.28">
+          <t>issue</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.3.w.29">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="1" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.2">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.3">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.4">
+          <t>led</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.5">
+          <t>losses</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.6">
+          <t>worth</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.7">
+          <t>Rs</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.8">
+          <t>10,000</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.9">
+          <t>crore</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.10">
+          <t>per</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.11">
+          <t>day</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.13">
+          <t>different</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.14">
+          <t>stakeholders</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.15">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="emention" datetime="2019-07-12T18:38:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.3">
+            <wref t="strike" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.2"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="ind_act" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.4">
+            <wref t="strike" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.4.w.2"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.2">
+          <t>delegation</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.3">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.4">
+          <t>informed</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.5">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.6">
+          <t>Union</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.7">
+          <t>Petroleum</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.8">
+          <t>Minister</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.9">
+          <t>Murli</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.10">
+          <t>Deora</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.11">
+          <t>wanted</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.12">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.13">
+          <t>engage</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.14">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.15">
+          <t>negotiations</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.16">
+          <t>with</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.17">
+          <t>them</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.18">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.19">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.20">
+          <t>diesel</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.21">
+          <t>price</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.22">
+          <t>issue</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.23">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.24">
+          <t>Wednesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.25">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.26">
+          <t>Sugumar</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.27">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.5.w.28">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6">
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.1">
+          <t>But</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.2">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.3">
+          <t>instead</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.5">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.6">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.7">
+          <t>representatives</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.8">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.9">
+          <t>Deora</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.10">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.11">
+          <t>busy</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.12">
+          <t>making</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.13">
+          <t>statements</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.14">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.16">
+          <t>media</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.17">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.19">
+          <t>fuel</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.20">
+          <t>prices</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.21">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.22">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.23">
+          <t>reduced</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.24">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.25">
+          <t>a</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.26">
+          <t>week</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.27">
+          <t>’</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.28">
+          <t>s</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.29">
+          <t>time</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.30">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.31">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.32">
+          <t>lamented</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.6.w.33">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="1" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.1">
+          <t>When</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.2">
+          <t>asked</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.3">
+          <t>about</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.4">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.5">
+          <t>response</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.6">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.7">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.8">
+          <t>ongoing</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.9">
+          <t>strike</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.11">
+          <t>Sugumar</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.12">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.13">
+          <t>,</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.14">
+          <t>“</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.15">
+          <t>Since</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.16">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.17">
+          <t>diesel</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.18">
+          <t>price</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.19">
+          <t>issue</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.20">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.21">
+          <t>irked</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.22">
+          <t>almost</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.23">
+          <t>all</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.24">
+          <t>truckers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.25">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.26">
+          <t>nearly</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.27">
+          <t>95</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.28">
+          <t>per</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.29">
+          <t>cent</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.30">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.31">
+          <t>trucks</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.32">
+          <t>are</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.33">
+          <t>off</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.34">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.35">
+          <t>roads</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.36">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.37">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.38">
+          <t>country</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.39">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="emention" datetime="2019-12-30T17:14:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.1004">
+            <wref t="are" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.32"/>
+            <wref t="off" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.33"/>
+            <wref t="the" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.34"/>
+            <wref t="roads" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.35"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="emention" datetime="2019-07-12T18:38:46" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.5">
+            <wref t="strike" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.9"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Firat" annotatortype="manual" class="ind_act" datetime="2019-12-30T17:14:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.12">
+            <wref t="are" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.32"/>
+            <wref t="off" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.33"/>
+            <wref t="the" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.34"/>
+            <wref t="roads" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.35"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="ind_act" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.6">
+            <wref t="strike" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.9"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="type" datetime="2019-07-12T18:49:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.22">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.24"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="partses" datetime="2019-07-12T18:59:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.27">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.24"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="worker" datetime="2019-07-12T19:49:45" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.2004">
+            <wref t="truckers" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.7.w.24"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.1">
+          <t>Only</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.2">
+          <t>those</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.3">
+          <t>trucks</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.4">
+          <t>which</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.5">
+          <t>move</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.6">
+          <t>essential</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.7">
+          <t>items</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.8">
+          <t>like</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.9">
+          <t>milk</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.10">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.11">
+          <t>medicine</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.12">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.13">
+          <t>vegetables</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.14">
+          <t>are</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.15">
+          <t>plying</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.8.w.16">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="1" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9">
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.1">
+          <t>”</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.2">
+          <t>Meanwhile</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.3">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.4">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.5">
+          <t>than</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.6">
+          <t>5,000</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.7">
+          <t>oil</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.8">
+          <t>tanker</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.9">
+          <t>lorries</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.10">
+          <t>plying</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.11">
+          <t>inside</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.12">
+          <t>Chennai</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.13">
+          <t>city</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.14">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.15">
+          <t>planned</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.16">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.17">
+          <t>support</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.19">
+          <t>strike</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.20">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.21">
+          <t>will</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.22">
+          <t>stay</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.23">
+          <t>off</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.25">
+          <t>roads</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.26">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.27">
+          <t>Thursday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.28">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="emention" datetime="2019-07-12T18:39:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.8">
+            <wref t="strike" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.19"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="urban" datetime="2019-07-12T19:00:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.28">
+            <wref t="city" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.13"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="place" datetime="2019-07-12T19:00:08" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.29">
+            <wref t="Chennai" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.12"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="ind_act" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.text.entity.9">
+            <wref t="strike" id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.9.w.19"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.10">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.10.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.10.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="http___www.newindianexpress.com_states_tamil-nadu_2009_jan_08_truckers-put-govt-on-notice-16327.p.1.s.10.w.3">
+          <t>http://www.newindianexpress.com/states/tamil-nadu/2009/jan/08/truckers-put-govt-on-notice-16327.html</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

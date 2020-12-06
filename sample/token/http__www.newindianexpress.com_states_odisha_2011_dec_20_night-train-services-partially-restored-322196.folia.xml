@@ -1,0 +1,733 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" version="1.5.1" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-09-24T16:27:22" set="tokconfig-eng"/>
+      <sentence-annotation set="https://raw.githubusercontent.com/OsmanMutlu/rawtext/master/sentence-classes.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Task.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Done">Yes</meta>
+    <meta id="EventCount"></meta>
+    <meta id="RelevantCountry2"></meta>
+    <meta id="Violent">Yes</meta>
+  </metadata>
+  <text xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text">
+    <p xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1">
+      <s class="0" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.1">
+          <t>Night</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.2">
+          <t>train</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.3">
+          <t>services</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.4">
+          <t>partially</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.5">
+          <t>restored</t>
+        </w>
+        <w class="NUMBER-ORDINAL" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.6">
+          <t>20th</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.7">
+          <t>December</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.8">
+          <t>2011</t>
+        </w>
+        <w class="TIME" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.9">
+          <t>08:23</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.10">
+          <t>AM</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.11">
+          <t>ROURKELA</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.12">
+          <t>:</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.13">
+          <t>Bilaspur-Tata</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.14">
+          <t>passenger</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.15">
+          <t>train</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.16">
+          <t>reached</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.17">
+          <t>Rourkela</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.18">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.19">
+          <t>Monday</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.20">
+          <t>evening</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.21">
+          <t>marking</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.22">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.23">
+          <t>end</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.24">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.25">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.26">
+          <t>restriction</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.27">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.28">
+          <t>movement</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.29">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.30">
+          <t>night</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.31">
+          <t>trains</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.32">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.33">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.34">
+          <t>busy</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.35">
+          <t>Howrah-Mumbai</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.36">
+          <t>route</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.37">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="eptime" datetime="2019-07-28T17:30:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.5">
+            <wref t="20th" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.6"/>
+            <wref t="December" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.7"/>
+            <wref t="2011" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.8"/>
+            <wref t="08:23" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.9"/>
+            <wref t="AM" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.10"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place_pub" datetime="2019-07-28T17:30:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.6">
+            <wref t="ROURKELA" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.11"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="doc_title" datetime="2019-07-28T17:31:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.12">
+            <wref t="Night" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.1"/>
+            <wref t="train" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.2"/>
+            <wref t="services" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.3"/>
+            <wref t="partially" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.4"/>
+            <wref t="restored" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.1.w.5"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="1" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.1">
+          <t>Sources</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.2">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.3">
+          <t>regulation</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.4">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.5">
+          <t>plying</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.6">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.7">
+          <t>trains</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.8">
+          <t>between</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.9">
+          <t>10</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.10">
+          <t>pm</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.11">
+          <t>and</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.12">
+          <t>5</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.13">
+          <t>am</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.14">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.15">
+          <t>various</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.16">
+          <t>sections</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.17">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.19">
+          <t>South</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.20">
+          <t>Eastern</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.21">
+          <t>Railway</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.22">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.23">
+          <t>SER</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.24">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.25">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.26">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.27">
+          <t>continuing</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.28">
+          <t>since</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.29">
+          <t>May</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.30">
+          <t>28</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.31">
+          <t>last</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.32">
+          <t>year</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.33">
+          <t>after</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.34">
+          <t>derailment</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.35">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.36">
+          <t>Jnaneswari</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.37">
+          <t>Express</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.38">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.39">
+          <t>West</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.40">
+          <t>Bengal</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.41">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.42">
+          <t>suspected</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.43">
+          <t>Maoists</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.44">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.1">
+            <wref t="derailment" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.34"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="etime" datetime="2019-07-28T17:30:48" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.7">
+            <wref t="May" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.29"/>
+            <wref t="28" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.30"/>
+            <wref t="last" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.31"/>
+            <wref t="year" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.32"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" datetime="2019-07-28T17:31:00" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.9">
+            <wref t="West" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.39"/>
+            <wref t="Bengal" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.40"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="arm_mil" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.2">
+            <wref t="derailment" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.34"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="type" datetime="2019-07-28T17:31:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.10">
+            <wref t="Maoists" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.43"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="ideology" datetime="2019-07-28T17:31:11" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.11">
+            <wref t="Maoists" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.43"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="militant" datetime="2019-07-28T18:31:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.2001">
+            <wref t="Maoists" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.2.w.43"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.1">
+          <t>SER</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.2">
+          <t>spokesperson</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.3">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.4">
+          <t>Chakradharpur</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.5">
+          <t>division</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.6">
+          <t>AK</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.7">
+          <t>Haldar</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.8">
+          <t>confirmed</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.9">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.10">
+          <t>restriction</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.11">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.12">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.13">
+          <t>Chakradharpur-Rourkela</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.14">
+          <t>section</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.15">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.16">
+          <t>lifted</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.17">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.18">
+          <t>Monday</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.19">
+          <t>evening</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.3.w.20">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4">
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.1">
+          <t>He</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.2">
+          <t>,</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.3">
+          <t>however</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.5">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.6">
+          <t>night</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.7">
+          <t>movement</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.9">
+          <t>trains</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.10">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.11">
+          <t>remain</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.12">
+          <t>suspended</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.13">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.14">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.15">
+          <t>Tata-Kharagpur</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.16">
+          <t>section</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.17">
+          <t>till</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.18">
+          <t>December</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.19">
+          <t>23</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.4.w.20">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.1">
+          <t>Under</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.2">
+          <t>these</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.3">
+          <t>circumstances</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.6">
+          <t>Kurla-Howrah</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.7">
+          <t>Express</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.8">
+          <t>would</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.9">
+          <t>be</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.10">
+          <t>allowed</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.11">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.12">
+          <t>leave</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.13">
+          <t>Chakradharpur</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.14">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.15">
+          <t>Tuesday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.17">
+          <t>he</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.18">
+          <t>added</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.5.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.1">
+          <t>SER</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.2">
+          <t>sources</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.3">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.4">
+          <t>around</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.5">
+          <t>40</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.6">
+          <t>pairs</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.7">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.8">
+          <t>express</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.9">
+          <t>trains</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.10">
+          <t>and</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.11">
+          <t>22</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.12">
+          <t>pairs</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.13">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.14">
+          <t>passenger</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.15">
+          <t>trains</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.16">
+          <t>ply</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.17">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.18">
+          <t>these</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.19">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.20">
+          <t>sections</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.21">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.22">
+          <t>the</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.23">
+          <t>Mumbai-Howrah</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.24">
+          <t>route</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.6.w.25">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.1">
+          <t>Welcoming</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.2">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.3">
+          <t>decision</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.4">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.5">
+          <t>Rourkela</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.6">
+          <t>Development</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.7">
+          <t>Steering</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.8">
+          <t>Committee</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.9">
+          <t>(</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.10">
+          <t>RDSC</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.11">
+          <t>)</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.12">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.13">
+          <t>Subrata</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.14">
+          <t>Patnaik</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.15">
+          <t>said</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.16">
+          <t>it</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.17">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.18">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.19">
+          <t>victory</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.20">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.21">
+          <t>their</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.22">
+          <t>unrelenting</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.23">
+          <t>struggle</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.7.w.24">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="1" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.1">
+          <t>RDSC</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.2">
+          <t>has</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.3">
+          <t>held</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.4">
+          <t>numerous</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.5">
+          <t>agitations</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.6">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.7">
+          <t>restoration</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.9">
+          <t>night</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.10">
+          <t>movement</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.11">
+          <t>of</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.12">
+          <t>trains</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.13">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.3">
+            <wref t="agitations" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.5"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2019-07-28T17:34:45">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="demonst" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.4">
+            <wref t="agitations" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.5"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2019-07-28T17:34:45">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="name" datetime="2019-07-28T17:34:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.13">
+            <wref t="RDSC" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.1"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2019-07-28T17:34:39">Event 2</comment>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="ngo" datetime="2019-07-28T18:34:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.text.entity.2002">
+            <wref t="RDSC" id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.8.w.1"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2019-07-28T18:34:39">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.9">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.9.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.9.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="http___www.newindianexpress.com_states_odisha_2011_dec_20_night-train-services-partially-restored-322196.p.1.s.9.w.3">
+          <t>http://www.newindianexpress.com/states/odisha/2011/dec/20/night-train-services-partially-restored-322196.html</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

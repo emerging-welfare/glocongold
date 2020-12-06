@@ -1,0 +1,1095 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-08-01T14:58:39" set="tokconfig-eng"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Task.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Done">Yes</meta>
+  </metadata>
+  <text xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text">
+    <p xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1">
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1">
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.1">
+          <t>BHUBANESWAR</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.2">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.3">
+          <t>BJD</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.4">
+          <t>on</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.6">
+          <t>defensive</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.7">
+          <t>November</t>
+        </w>
+        <w space="no" class="NUMBER" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.8">
+          <t>23</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.9">
+          <t>,</t>
+        </w>
+        <w class="NUMBER" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.10">
+          <t>2015</t>
+        </w>
+        <w class="TIME" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.11">
+          <t>00:00</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.12">
+          <t>IST</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.13">
+          <t>Finding</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.14">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.15">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.16">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.17">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.18">
+          <t>tight</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.19">
+          <t>spot</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.20">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.21">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.22">
+          <t>wake</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.23">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.24">
+          <t>rising</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.25">
+          <t>cases</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.26">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.27">
+          <t>farmer</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.28">
+          <t>suicides</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.29">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.30">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.31">
+          <t>ruling</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.32">
+          <t>Biju</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.33">
+          <t>Janata</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.34">
+          <t>Dal</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.35">
+          <t>seems</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.36">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.37">
+          <t>have</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.38">
+          <t>adopted</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.39">
+          <t>defensive</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.40">
+          <t>posture</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.41">
+          <t>against</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.42">
+          <t>the</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.43">
+          <t>Opposition</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.44">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="place_pub" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.1">
+            <wref t="BHUBANESWAR" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.1"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="eptime" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2">
+            <wref t="November" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.7"/>
+            <wref t="23" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.8"/>
+            <wref t="," id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.9"/>
+            <wref t="2015" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.10"/>
+            <wref t="00:00" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.11"/>
+            <wref t="IST" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.12"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="doc_title" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.3">
+            <wref t="BJD" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.3"/>
+            <wref t="on" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.4"/>
+            <wref t="the" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.5"/>
+            <wref t="defensive" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.6"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="name" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.4">
+            <wref t="BJD" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.1.w.3"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.1">
+          <t>When</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.2">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.3">
+          <t>opposition</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.4">
+          <t>Congress</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.5">
+          <t>organised</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.7">
+          <t>padyatra</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.8">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.9">
+          <t>Salipur</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.11">
+          <t>Cuttack</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.12">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.13">
+          <t>as</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.14">
+          <t>part</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.15">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.16">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.17">
+          <t>Jana</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.18">
+          <t>Jagaran</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.19">
+          <t>Yatra</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.20">
+          <t>on</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.21">
+          <t>Saturday</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.22">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.24">
+          <t>BJD</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.25">
+          <t>roped</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.26">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.27">
+          <t>some</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.28">
+          <t>dissident</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.29">
+          <t>block</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.30">
+          <t>level</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.31">
+          <t>Congress</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.32">
+          <t>workers</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.33">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.34">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.35">
+          <t>area</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.36">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.37">
+          <t>show</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.38">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.39">
+          <t>its</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.40">
+          <t>image</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.41">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.42">
+          <t>not</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.43">
+          <t>been</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.44">
+          <t>affected</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.45">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.46">
+          <t>any</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.47">
+          <t>manner</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.48">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.5">
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.7"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.6">
+            <wref t="Salipur" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.9"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.7">
+            <wref t="Cuttack" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.11"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="etime" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.8">
+            <wref t="on" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.20"/>
+            <wref t="Saturday" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.21"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.9">
+            <wref t="Jana" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.17"/>
+            <wref t="Jagaran" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.18"/>
+            <wref t="Yatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.19"/>
+            <comment annotator="Both" annotatortype="auto">Event 2</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="name" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.11">
+            <wref t="Congress" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.4"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="name" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.12">
+            <wref t="Congress" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.31"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="pol_party" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2001">
+            <wref t="Congress" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.4"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="pol_party" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2002">
+            <wref t="Congress" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.31"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="name" datetime="2018-09-24T08:54:49" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.1008">
+            <wref t="BJD" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.24"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="type" datetime="2019-04-18T11:19:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.47">
+            <wref t="workers" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.32"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="activist" datetime="2019-04-18T12:19:21" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2010">
+            <wref t="workers" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.32"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:36:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.26">
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.7"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:36:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.30">
+            <wref t="Jana" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.17"/>
+            <wref t="Jagaran" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.18"/>
+            <wref t="Yatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.2.w.19"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2019-06-14T07:36:35">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.1">
+          <t>A</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.2">
+          <t>group</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.3">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.4">
+          <t>local</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.5">
+          <t>Congress</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.6">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.7">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.8">
+          <t>Salipur</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.9">
+          <t>met</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.11">
+          <t>Chief</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.12">
+          <t>Minister</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.13">
+          <t>Naveen</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.14">
+          <t>Patnaik</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.15">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.16">
+          <t>his</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.17">
+          <t>residence</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.18">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.3.w.19">
+          <t>.</t>
+        </w>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD-COMPOUND" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.2">
+          <t>seven-km</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.3">
+          <t>long</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.4">
+          <t>padyatra</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.5">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.6">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.7">
+          <t>Congress</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.8">
+          <t>from</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.9">
+          <t>Manoharpur</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.10">
+          <t>to</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.11">
+          <t>Salipur</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.12">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.13">
+          <t>attended</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.14">
+          <t>by</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.15">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.16">
+          <t>supporters</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.17">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.18">
+          <t>farmers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.19">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:19:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.14">
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.4"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.15">
+            <wref t="Manoharpur" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.9"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.16">
+            <wref t="Salipur" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.11"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="name" datetime="2018-09-24T08:55:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.1012">
+            <wref t="Congress" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.7"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="pol_party" datetime="2018-09-24T09:55:20" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2003">
+            <wref t="Congress" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.7"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="type" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.17">
+            <wref t="supporters" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.16"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="type" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.18">
+            <wref t="farmers" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.18"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="partses" datetime="2019-04-19T08:40:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.10">
+            <wref t="farmers" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.18"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="activist" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2011">
+            <wref t="supporters" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.16"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="peasant" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2012">
+            <wref t="farmers" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.18"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Eylem" annotatortype="manual" class="type" datetime="2018-09-25T08:21:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.13">
+            <wref t="party" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.15"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="pol_party" datetime="2018-09-25T09:21:32" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2004">
+            <wref t="party" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.15"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:36:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.32">
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.4.w.4"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.2">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.3">
+          <t>culminated</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.4">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.5">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.6">
+          <t>public</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.7">
+          <t>meeting</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.8">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.9">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.10">
+          <t>Congress</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.11">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.12">
+          <t>held</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.13">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.14">
+          <t>BJD</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.15">
+          <t>government</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.16">
+          <t>responsible</t>
+        </w>
+        <w class="ABBREVIATION-KNOWN" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.17">
+          <t>for</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.18">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.19">
+          <t>spate</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.20">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.21">
+          <t>farmer</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.22">
+          <t>suicides</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.23">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.24">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.25">
+          <t>State</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.26">
+          <t>since</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.27">
+          <t>September</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.28">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:24:22" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.19">
+            <wref t="rally" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.2"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:24:26" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.23">
+            <wref t="public" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.6"/>
+            <wref t="meeting" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.7"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="type" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.24">
+            <wref t="leaders" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.11"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="politician" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2013">
+            <wref t="leaders" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.11"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="name" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.25">
+            <wref t="Congress" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.10"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="pol_party" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2005">
+            <wref t="Congress" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.10"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="name" datetime="2018-09-24T09:47:09" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.1032">
+            <wref t="BJD" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.14"/>
+            <wref t="government" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.15"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:36:46" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.33">
+            <wref t="rally" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.2"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:36:51" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.35">
+            <wref t="public" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.6"/>
+            <wref t="meeting" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.5.w.7"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.1">
+          <t>Many</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.2">
+          <t>senior</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.3">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.4">
+          <t>leaders</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.5">
+          <t>joined</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.6">
+          <t>PCC</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.7">
+          <t>president</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.8">
+          <t>Prasad</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.9">
+          <t>Harichandan</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.10">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.11">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.12">
+          <t>padyatra</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.13">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.14">
+          <t>addressed</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.15">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.16">
+          <t>gathering</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.17">
+          <t>criticising</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.18">
+          <t>Chief</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.19">
+          <t>Minister</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.20">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:24:55" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.27">
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.12"/>
+          </entity>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:24:58" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.28">
+            <wref t="gathering" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.16"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="type" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.29">
+            <wref t="leaders" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.4"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="type" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.31">
+            <wref t="president" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.7"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="pname" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.34">
+            <wref t="Prasad" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.8"/>
+            <wref t="Harichandan" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.9"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="politician" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2014">
+            <wref t="leaders" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.4"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="politician" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2015">
+            <wref t="president" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.7"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="ps_other" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2016">
+            <wref t="Prasad" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.8"/>
+            <wref t="Harichandan" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.9"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="name" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.36">
+            <wref t="PCC" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.6"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="pol_party" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2006">
+            <wref t="PCC" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.6"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="type" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.37">
+            <wref t="Chief" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.18"/>
+            <wref t="Minister" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.19"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Eylem" annotatortype="manual" class="type" datetime="2018-09-25T09:27:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.1028">
+            <wref t="party" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.3"/>
+          </entity>
+          <entity annotator="Eylem" annotatortype="manual" class="pol_party" datetime="2018-09-25T10:27:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2007">
+            <wref t="party" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.3"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:36:57" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.48">
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.12"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:37:01" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.49">
+            <wref t="gathering" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.6.w.16"/>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7">
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.1">
+          <t>Saturday</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.2">
+          <t>’</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.3">
+          <t>s</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.4">
+          <t>was</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.6">
+          <t>third</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.7">
+          <t>phase</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.8">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.9">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.10">
+          <t>Jana</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.11">
+          <t>Jagaran</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.12">
+          <t>padyatra</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.13">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="emention" datetime="2019-04-18T11:27:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.20">
+            <wref t="Jana" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.10"/>
+            <wref t="Jagaran" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.11"/>
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.12"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2018-09-24T09:51:55">Event 2</comment>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="etime" datetime="2018-09-24T08:56:49" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.21">
+            <wref t="Saturday" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.1"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:37:12" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.50">
+            <wref t="Jana" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.10"/>
+            <wref t="Jagaran" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.11"/>
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.7.w.12"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2019-06-14T07:37:12">Event 2</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.2">
+          <t>party</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.4">
+          <t>organised</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.5">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.6">
+          <t>first</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.7">
+          <t>two</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.8">
+          <t>phases</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.9">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.10">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.11">
+          <t>padyatra</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.12">
+          <t>at</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.13">
+          <t>Angul</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.14">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.15">
+          <t>Dhenkanal</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.16">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.17">
+          <t>and</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.18">
+          <t>Nuapada</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.19">
+          <t>and</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.20">
+          <t>Nabarangpur</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.21">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Gizem" annotatortype="manual" class="etype" datetime="2019-04-18T11:28:07" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.22">
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.11"/>
+            <comment annotator="Gizem" annotatortype="manual" datetime="2019-04-18T11:27:49">Event 3, Event 4</comment>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.38">
+            <wref t="Angul" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.13"/>
+            <comment annotator="Both" annotatortype="auto">Event 3</comment>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.39">
+            <wref t="Dhenkanal" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.15"/>
+            <comment annotator="Both" annotatortype="auto">Event 3</comment>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.40">
+            <wref t="Nuapada" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.18"/>
+            <comment annotator="Both" annotatortype="auto">Event 4</comment>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.41">
+            <wref t="Nabarangpur" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.20"/>
+            <comment annotator="Both" annotatortype="auto">Event 4</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="type" datetime="2018-09-24T09:50:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.1043">
+            <wref t="party" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.2"/>
+            <comment annotator="Gizem" annotatortype="manual" datetime="2019-04-18T11:25:56">Event 1, Event 2, Event 3, Event 4</comment>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="pol_party" datetime="2018-09-24T10:50:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2008">
+            <wref t="party" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.2"/>
+            <comment annotator="Gizem" annotatortype="manual" datetime="2019-04-18T12:25:56">Event 1, Event 2, Event 3, Event 4</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:37:24" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.51">
+            <wref t="padyatra" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.8.w.11"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2019-06-14T07:37:24">Event 3, Event 4</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.2">
+          <t>BJD</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.3">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.4">
+          <t>also</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.5">
+          <t>organised</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.6">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.7">
+          <t>rally</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.8">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.9">
+          <t>Bargarh</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.10">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.11">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.12">
+          <t>few</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.13">
+          <t>days</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.14">
+          <t>ago</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.15">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.16">
+          <t>western</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.17">
+          <t>Odisha</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.18">
+          <t>where</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.19">
+          <t>more</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.20">
+          <t>farmers</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.21">
+          <t>had</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.22">
+          <t>taken</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.23">
+          <t>the</t>
+        </w>
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.24">
+          <t>extreme</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.25">
+          <t>step</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.26">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.42">
+            <wref t="rally" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.7"/>
+            <comment annotator="Both" annotatortype="auto">Event 5</comment>
+          </entity>
+          <entity annotator="Firat" annotatortype="manual" class="place" datetime="2019-12-30T16:06:43" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.43">
+            <wref t="Odisha" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.17"/>
+            <comment annotator="Firat" annotatortype="manual" datetime="2019-12-30T16:06:51">Event 5</comment>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.45">
+            <wref t="Bargarh" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.9"/>
+            <comment annotator="Both" annotatortype="auto">Event 5</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="name" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.46">
+            <wref t="BJD" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.2"/>
+            <comment annotator="Both" annotatortype="auto">Event 5</comment>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="pol_party" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.2009">
+            <wref t="BJD" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.2"/>
+            <comment annotator="Both" annotatortype="auto">Event 5</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Eylem" annotatortype="manual" class="etime" datetime="2018-09-25T09:35:31" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.44">
+            <wref t="a" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.11"/>
+            <wref t="few" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.12"/>
+            <wref t="days" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.13"/>
+            <wref t="ago" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.14"/>
+            <comment annotator="Eylem" annotatortype="manual" datetime="2018-09-25T09:35:31">Event 5</comment>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="demonst" datetime="2019-06-14T07:37:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.text.entity.52">
+            <wref t="rally" id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.9.w.7"/>
+            <comment annotator="Ezgi" annotatortype="manual" datetime="2019-06-14T07:37:39">Event 5</comment>
+          </entity>
+        </entities>
+      </s>
+      <s xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.10">
+        <w class="WORD" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.10.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.10.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="http__www.thehindu.com_todays-paper_tp-national_tp-otherstates_bjd-on-the-defensive_article7906745.p.1.s.10.w.3">
+          <t>http://www.thehindu.com/todays-paper/tp-national/tp-otherstates/bjd-on-the-defensive/article7906745.ece</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>

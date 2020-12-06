@@ -1,0 +1,377 @@
+<?xml version='1.0' encoding='utf-8'?>
+<FoLiA xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://ilk.uvt.nl/folia" version="1.5.1" generator="pynlpl.formats.folia-v1.5.1.88" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270">
+  <metadata type="native">
+    <annotations>
+      <token-annotation annotator="ucto" annotatortype="auto" datetime="2018-09-24T16:27:13" set="tokconfig-eng"/>
+      <sentence-annotation set="https://raw.githubusercontent.com/OsmanMutlu/rawtext/master/sentence-classes.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes2-Target.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes5-Organizer.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Osemantic.foliaset.xml"/>
+      <entity-annotation set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Task.foliaset.xml"/>
+    </annotations>
+    <meta id="language">eng</meta>
+    <meta id="RelevantCountry">Yes</meta>
+    <meta id="Event">Yes</meta>
+    <meta id="Done">Yes</meta>
+  </metadata>
+  <text xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text">
+    <p xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1">
+      <s class="1" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.1">
+          <t>Maoists</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.2">
+          <t>damage</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.3">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.4">
+          <t>bridges</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.5">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.6">
+          <t>Bihar</t>
+        </w>
+        <w class="NUMBER-ORDINAL" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.7">
+          <t>09th</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.8">
+          <t>October</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.9">
+          <t>2009</t>
+        </w>
+        <w class="TIME" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.10">
+          <t>12:05</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.11">
+          <t>PM</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.12">
+          <t>PATNA</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.13">
+          <t>:</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.14">
+          <t>Maoist</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.15">
+          <t>guerrillas</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.16">
+          <t>early</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.17">
+          <t>Friday</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.18">
+          <t>damaged</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.19">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.20">
+          <t>bridges</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.21">
+          <t>in</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.22">
+          <t>Bihar</t>
+        </w>
+        <w class="SUFFIX" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.23">
+          <t>'s</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.24">
+          <t>Aurangabad</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.25">
+          <t>district</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.26">
+          <t>with</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.27">
+          <t>dynamites</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.28">
+          <t>,</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.29">
+          <t>police</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.30">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.31">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.1">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.2" t="damage"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="etype" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.2">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.18" t="damaged"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place_pub" datetime="2019-07-27T20:27:39" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.11">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.12" t="PATNA"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="place" datetime="2019-07-27T20:27:47" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.12">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.22" t="Bihar"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" datetime="2019-07-27T20:27:52" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.13">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.6" t="Bihar"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="place" datetime="2019-07-27T20:27:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.14">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.24" t="Aurangabad"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="eptime" datetime="2019-07-27T20:28:04" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.15">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.7" t="09th"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.8" t="October"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.9" t="2009"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.10" t="12:05"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.11" t="PM"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="loc" datetime="2019-07-27T20:29:40" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.19">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.4" t="bridges"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="doc_title" datetime="2019-07-27T20:29:50" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.20">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.1" t="Maoists"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.2" t="damage"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.3" t="three"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.4" t="bridges"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.5" t="in"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.6" t="Bihar"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="loc" datetime="2019-07-27T20:30:05" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.23">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.20" t="bridges"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="etime" datetime="2019-07-27T20:30:13" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.24">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.16" t="early"/>
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.17" t="Friday"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="arm_mil" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.3">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.2" t="damage"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="arm_mil" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.4">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.18" t="damaged"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="type" datetime="2019-07-27T20:29:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.17">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.1" t="Maoists"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="ideology" datetime="2019-07-27T20:29:35" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.18">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.1" t="Maoists"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="type" datetime="2019-07-27T20:29:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.21">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.15" t="guerrillas"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="ideology" datetime="2019-07-27T20:29:59" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes6-Participant.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.22">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.14" t="Maoist"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="militant" datetime="2019-07-27T20:35:30" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.2001">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.1" t="Maoists"/>
+          </entity>
+          <entity annotator="Both" annotatortype="auto" class="militant" datetime="2019-07-27T20:35:56" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Psemantic.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.2002">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.1.w.15" t="guerrillas"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="1" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.2">
+          <t>incident</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.3">
+          <t>occurred</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.4">
+          <t>about</t>
+        </w>
+        <w class="NUMBER" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.5">
+          <t>125</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.6">
+          <t>km</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.7">
+          <t>from</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.8">
+          <t>here</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.9">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="emention" datetime="2019-07-27T20:28:10" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.5">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.2" t="incident"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="arm_mil" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.6">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.2.w.2" t="incident"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="1" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3">
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.1">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.2">
+          <t>All</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.3">
+          <t>three</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.4">
+          <t>bridges</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.5">
+          <t>were</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.6">
+          <t>badly</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.7">
+          <t>damaged</t>
+        </w>
+        <w space="no" class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.8">
+          <t>,</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.9">
+          <t>"</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.10">
+          <t>an</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.11">
+          <t>official</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.12">
+          <t>said</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.13">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Ezgi" annotatortype="manual" class="emention" datetime="2019-07-27T20:28:15" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.7">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.7" t="damaged"/>
+          </entity>
+          <entity annotator="Ezgi" annotatortype="manual" class="loc" datetime="2019-07-27T20:30:19" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.25">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.4" t="bridges"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="arm_mil" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.8">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.3.w.7" t="damaged"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="1" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.1">
+          <t>The</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.2">
+          <t>bombing</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.3">
+          <t>created</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.4">
+          <t>panic</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.5">
+          <t>among</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.6">
+          <t>villagers</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.7">
+          <t>.</t>
+        </w>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="emention" datetime="2019-07-27T20:28:34" set="https://github.com/OsmanMutlu/rawtext/raw/master/prote11-Event.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.9">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.2" t="bombing"/>
+          </entity>
+        </entities>
+        <entities>
+          <entity annotator="Both" annotatortype="auto" class="arm_mil" set="https://github.com/OsmanMutlu/rawtext/raw/master/protes1-Semantic.foliaset.xml" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.text.entity.10">
+            <wref id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.4.w.2" t="bombing"/>
+          </entity>
+        </entities>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.1">
+          <t>Aurangabad</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.2">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.3">
+          <t>one</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.4">
+          <t>of</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.5">
+          <t>five</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.6">
+          <t>districts</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.7">
+          <t>in</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.8">
+          <t>central</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.9">
+          <t>Bihar</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.10">
+          <t>that</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.11">
+          <t>is</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.12">
+          <t>a</t>
+        </w>
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.13">
+          <t>Maoist</t>
+        </w>
+        <w space="no" class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.14">
+          <t>hotbed</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.5.w.15">
+          <t>.</t>
+        </w>
+      </s>
+      <s class="0" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.6">
+        <w class="WORD" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.6.w.1">
+          <t>url</t>
+        </w>
+        <w class="PUNCTUATION" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.6.w.2">
+          <t>:</t>
+        </w>
+        <w class="URL" xml:id="http___www.newindianexpress.com_nation_2009_oct_09_maoists-damage-three-bridges-in-bihar-91270.p.1.s.6.w.3">
+          <t>http://www.newindianexpress.com/nation/2009/oct/09/maoists-damage-three-bridges-in-bihar-91270.html</t>
+        </w>
+      </s>
+    </p>
+  </text>
+</FoLiA>
