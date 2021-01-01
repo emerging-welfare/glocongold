@@ -1,7 +1,7 @@
 # glocongold
 The repo is about how to get access to the gold standard corpus that is created and exploited to generate the Global Contention Dataset (GLOCON). Please contact ahurriyetoglu@ku.edu.tr if you would like to use the GLOCON Gold dataset that is created in the scope of [Emerging Welfare](https://emw.ku.edu.tr/) project. 
 
-The annotation manuals can be found [here](https://github.com/emerging-welfare/general_info/tree/master/annotation-manuals).
+The annotation manuals can be found [here](https://github.com/emerging-welfare/general_info/tree/master/annotation-manuals). The final database is on https://glocon.ku.edu.tr/.
 
 A detailed description of the dataset is provided in the following publications: 
 
